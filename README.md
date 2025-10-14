@@ -1,40 +1,20 @@
-# minimum_python_example
- 
- This project demonstrates a minimal reproducible example for setting up a Python program with two classes. 
+# Dataset Characterization
 
- 
+This repository is created for the purpose of characterizing four datasets that are commonly associated with machine learning models. It is more so about the data itself rather than how it is used in machine learning.
+
 ## Table of Contents
 * [Requirements](#requirements)
 * [Implementation](#implementation)
-* [Error Handling](#error-handling)
 * [References](#references)
 
 
 ## Requirements
 
-This project requires numpy. It was developed using Python 3.12
-
-Use 'pip install -r requirements.txt' to install the following dependencies:
-
-```python
-numpy==2.2.2
-
-```
+This repository only requires reading.
 
 ## Implementation
 
-This program can be run through main.py
-
-There are two classes that main.py calls: ClassOne and ClassTwo.  Both classes allow outside function calls to add, clear, and get array values. ClassOne takes no input at initialization. ClassTwo takes an array at initialization.
-
-
-## Error Handling
-
-This project does not have any error handling. 
-
+This repository is strictly a read only repository. There is no need for code execution unless it is an example which may already be shown in the media folder.
 
 ## References
-
-This repo does not  have any references, but if using materials such as tutorials, websites, publications, etc. this is where they should be added in IEEE format.
-
 
