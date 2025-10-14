@@ -1,0 +1,4 @@
+Background
+
+The data was originally collected by botanist Dr. Edgar Anderson to study morphological variation in the Iris species of flowers,
+more specifically the Iris setosa, Iris versicolor, and Iris virginica, native to the Gaspe peninsula.
