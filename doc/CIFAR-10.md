@@ -1,6 +1,6 @@
-## CIFAR-10 Dataset
+# CIFAR-10 Dataset
 
-### Background
+## Background
 
 The CIFAR-10 dataset was introduced by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton in their 2009 paper "_Learning Multiple Layers of Features from Tiny Images_" at the University of Toronto. It is actually labeled as a subset from the much larger "_80 Million Tiny Images_" dataset from 2008 as released by Torralba, Fergus, and Freeman. The point of creating this subset was to select a manageable, well-labeled subset of small color images (32 x 32) that covered a limited number of object categories which is later used to facilitate benchmarks in image classification.
 
@@ -8,7 +8,7 @@ The creators manualled curated labels rather than utilizing the labels that alre
 
 Over time, CIFAR-10 became one of the most known benchmarks used for computer vision and deep learning in research, teaching, and evaluation. The small resolution size and accessibility helps it be the middle man for toy datasets and larger high resolution datasets.
 
-### Dataset Structure
+## Dataset Structure
 
 CIFAR-10 consists of 60,000 color images of size 32 x 32 pixels with three color channels (RGB). There are 10 classes with each class containing 6,000 images. The dataset is typically split into a training set of 50,000 images and a test set of 10,000 images.
 
