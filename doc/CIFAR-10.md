@@ -71,3 +71,5 @@ CIFAR-10 remains a fundamental benchmark moderate in size and simple enough to w
 6. [6] K. Team, “Keras documentation: CIFAR10 small images classification dataset,” keras.io. https://keras.io/api/datasets/cifar10/
 7. [7] Toronto, “cifar10,” Huggingface.co, Mar. 30, 2022. https://huggingface.co/datasets/uoft-cs/cifar10 (accessed Oct. 21, 2025).
 8. [8] A. Krizhevsky, “CIFAR-10 and CIFAR-100 datasets,” Toronto.edu, 2009. https://www.cs.toronto.edu/~kriz/cifar.html
+
+I like milk
