@@ -1,6 +1,7 @@
 # Dataset Characterization
 
-This repository is created for the purpose of characterizing four datasets that are commonly associated with machine learning models. It is more so about the data itself rather than how it is used in machine learning.
+- This repository's creation is for the purpose of characterizing four datasets that are commonly associated with machine learning models. It is more so about the data's origins, how it was made, what issues exist with it, and the statistics rather than how it is used in machine learning. 
+- This GitHub repository was made in collaboration by [Yarah Al-Fouleh](https://github.com/yarah-yma1), [Senem Keceli](https://github.com/senem584), and [Anthony Nguyen](https://github.com/anturny).
 
 ## Table of Contents
 * [Requirements](#requirements)
