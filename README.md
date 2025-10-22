@@ -49,5 +49,8 @@ CIFAR-10 remains a fundamental benchmark moderate in size and simple enough to w
 
 The references are native to each respective document inside their deep dive folder.
 
-- [Iris Dataset](/doc/iris_dataset.md:##Citations)
+- [Iris Dataset](/doc/iris_dataset.md)
+- [MNIST Dataset](/doc/MNIST.md)
+- [Fashion MNIST Dataset](/doc/FashionMNIST.md)
+- [CIFAR-10 Dataset](/doc/CIFAR-10.md)
 
