@@ -47,3 +47,7 @@ CIFAR-10 remains a fundamental benchmark moderate in size and simple enough to w
 
 ## References
 
+The references are native to each respective document inside their deep dive folder.
+
+- [Iris Dataset](/doc/iris_dataset.md:##Citations)
+
