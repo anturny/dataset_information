@@ -12,6 +12,8 @@ Over time, CIFAR-10 became one of the most known benchmarks used for computer vi
 
 CIFAR-10 consists of 60,000 color images of size 32 x 32 pixels with three color channels (RGB). There are 10 classes with each class containing 6,000 images. The dataset is typically split into a training set of 50,000 images and a test set of 10,000 images.
 
+![alt_text](/media/picCIFAR10/CIFAR1032by32.png)
+
 The test set is organized so that there are exactly 1,000 images per class. The training set is typically divided into 5 batches of 10,000 images each for convenience in provided formats. Of the 5 training batches, each class is represented by 5,000 images so the training set is balanced across all classes. The training batches are randomized, so the individual batches may not be perfectly balanced.
 
 In most software frameworks such as Keras or Pytorch, the images are stored as 8-bit unsigned integers ranging from 0-255 per channel with the labels as integers ranging 0-9 indicating the class. The names of these class in order are:
@@ -29,6 +31,8 @@ torchvision.datasets.CIFAR10
 ```
 
 Due to how small the CIFAR-10 images are and their relative low detail, there is a limit to how fine distinctions can be made visually. Classes like airplane, truck, and ship may be harder to distinguish.
+
+![alt_text](/media/picCIFAR10/cifar10examples.png)
 
 ## Data Trends, Seperability, Overlap, Center of Mass
 
