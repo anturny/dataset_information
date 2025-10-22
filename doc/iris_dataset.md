@@ -4,6 +4,8 @@
 
 The Iris dataset was originally collected by botanist Edgar Anderson, who measured morphological variations in three species of iris flowers (_Iris setosa, Iris versicolor, and Iris virginica_) in the Gaspe Peninsula. The dataset is composed of measurements of sepal length, sepal width, petal length, and petal width, all recorded in centimeters. In 1936, statistician Ronald A. Fisher used Anderson's data in his paper "_The Use of Multiple Measurements in Taxonomic Problems_" to illustrate multivariate discriminant analysis methods, which is another way of saying that he was finding linear combinations of the measurements to best separate the different species. It is appropriate to therefore credit Anderson for the dataset and Fisher for the statistical analysis. 
 
+![alt_text](/media/picIRIS/IrisDatasetPic.png)
+
 ## Dataset Structure
 
 The dataset contains 150 samples, 5 attributes, 4 numerical features, and 1 categorical species label. There are 3 classes, which are the iris species, with 50 samples each, so the data is balanced among the species. The features include:
@@ -40,6 +42,8 @@ By the classes, the approximate average values and qualitative notes are as foll
 | _Iris virginica_  | ~ 6.59 cm  | ~ 2.97 cm | ~ 5.55 cm | ~ 2.03 cm |
 
 These centroids show that setosa is clearly separated in petal size from the other two. Versicolor and virginica are closer together in feature space hence the overlaps. 
+
+![alt_text](/media/picIRIS/IRISStatistics.png)
 
 ## Data Geometry, Separability, and Trends
 
