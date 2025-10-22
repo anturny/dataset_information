@@ -1,12 +1,12 @@
 # Fashion_MNIST Data Set
 This project demonstrates the Keras deep learning library that helps create an artificial neural network built on Tensorflow.
 # Table Of Contents
-- [Orgin + Background](#orgin+background)
+- [Origin + Background](#origin+background)
 - [Composition](#composition)
 - [Issues](#issues)
 - [Statistics](#statistics)
 - [References](#references)
-## Orgin + Background 
+## Origin + Background 
 - The fashion MNIST was introducted by Zalando Reserch in 2017. The authors were Han Xiao, Kashif Rasul, and Roland Vollgraf. 
 - It was made to have the same concept as the MNIST handwritten dataset with same image sizing of 28 times 28, same train + testing splits w/ 60,000/10,0000, and 10 classes. The difference is the content in which the FashionMNIST is classifying fashion items instead of digits. 
 - This was also made to help idenitfy and test the classification of complex images.
